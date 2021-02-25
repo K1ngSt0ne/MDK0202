@@ -1,1 +1,2 @@
-lst=[] for x in range(10): lst.append(x)
+lst = [x for x in range(10)] print(lst)
+
